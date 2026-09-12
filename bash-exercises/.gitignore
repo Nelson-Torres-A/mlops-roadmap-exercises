@@ -36,4 +36,10 @@ venv/
 __pycache__/
 *.pyc
 
+*.conf
+services.conf
+
+proyecto-repaso/
+
+respaldo/
 
