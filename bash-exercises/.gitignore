@@ -1,0 +1,39 @@
+
+#ignore logs
+*.log
+accesos.log
+app.log
+alertas.txt
+
+#backups, .zip and .tar
+*.tar.gz
+*.zip
+backup_*
+respaldo*/
+respaldo.tar.gz
+
+# Temporary configuration/notes test files
+notas.txt
+renombrado.txt
+
+# Test folders
+testdir/
+prueba.sh
+
+# Environment files / secrets (just in case)
+.env
+*.pem
+*.key
+
+# Operating system / editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Python virtual environments (if you use one in utility scripts)
+venv/
+__pycache__/
+*.pyc
+
+
