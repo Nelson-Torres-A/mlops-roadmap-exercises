@@ -1,0 +1,6 @@
+INFO Usuario conectado
+ERROR Base de datos caída
+INFO Usuario desconectado
+WARNING Memoria alta
+ERROR Timeout
+ERROR Servicio caído
